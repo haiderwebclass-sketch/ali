@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generator",
+  "description": "Generate high-quality, visually detailed images from text descriptions. This tool allows users to specify prompts, select aspect ratios, and download the final image.",
+  "requestFramePermissions": []
+}
